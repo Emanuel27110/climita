@@ -1,0 +1,20 @@
+body{
+    background-image: url("./img/fondito.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: #babc43;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+.btn:hover{
+    background-color: #ba7b30;
+}
+.btn:active{
+    background-color: #8fb22f;
+}
